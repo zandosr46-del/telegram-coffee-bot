@@ -1,0 +1,6 @@
+.env
+*.db
+coffee_shop.db
+venv/
+.idea/
+__pycache__/
