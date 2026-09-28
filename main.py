@@ -16,7 +16,7 @@ from aiogram.types import (
 # Импортируем функции из db.py
 from db import add_order, get_all_orders, init_db
 
-TOKEN = "8833556031:AAGktjcks61HBOCiRW6xSuPG_gnIJRJ0H3s"
+TOKEN = "8833556031:AAE4AbHOB_gmePes26ii55ZgP44ODJCy3h0"
 ADMIN_ID = 6038727126
 
 bot = Bot(token=TOKEN)
